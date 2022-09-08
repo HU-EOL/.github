@@ -1,4 +1,10 @@
-## Hi there 👋
+## Earth Observation Lab, Humboldt-Universität zu Berlin
+
+
+Webpage: https://www.geographie.hu-berlin.de/en/professorships/eol
+
+Twitter: https://twitter.com/HumboldtEOLab
+
 
 <!--
 
